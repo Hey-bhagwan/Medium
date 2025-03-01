@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import { Avatar } from "./blogCard"
 
 export const AppBar = () => {
     return <div className="flex justify-between items-center px-15 w-full border-b-2 border-slate-200 py-5">
