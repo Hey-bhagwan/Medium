@@ -8,7 +8,7 @@ Medium is a platform designed for passionate writers and readers to connect, sha
 * **CSS:** Tailwind CSS for a clean and customizable design system.
 
 * **Backend:** Hono for a lightweight and fast backend framework.
-bullet points
+
 * **Database:** PostgreSQL for reliable and scalable data storage.
 
 * **Deployment & CDN:** Vercel for frontend deployment, CloudFront for backend delivery, and Vercel for CDN to ensure fast and efficient content delivery globally.
